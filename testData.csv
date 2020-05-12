@@ -1,0 +1,101 @@
+QNumber,Choice,Preposition,Question,FullQ,Particpants,Correct,EnglishL1Model,MandarinL1Model,MandarinEnglishL2Model
+1,A,on, Now? you don't eat these all ___ once, Now? you don't eat these all on once,0.045454545,0,0.274719669089367,0.214542682902538,0.275903118205062
+1,B,at, Now? you don't eat these all ___ once, Now? you don't eat these all at once,0.625,1,0.276695381133951,0.356371951292387,0.283101431140336
+1,C,like, Now? you don't eat these all ___ once, Now? you don't eat these all like once,0.193181818,0,0.273671404555109,0.214542682902538,0.266301768989276
+1,D,as, Now? you don't eat these all ___ once, Now? you don't eat these all as once,0.136363636,0,0.174913545221573,0.214542682902538,0.174693681665326
+2,A,with, So you're happy ___ your work?, So you're happy with your work?,0.761363636,1,0.280309659815819,0.25,
+2,B,inside, So you're happy ___ your work?, So you're happy inside your work?,0.056818182,0,0.173415113791926,0.25,
+2,C,of, So you're happy ___ your work?, So you're happy of your work?,0.090909091,0,0.273908997603832,0.25,
+2,D,on, So you're happy ___ your work?, So you're happy on your work?,0.090909091,0,0.272366228788423,0.25,
+3,A,as, Max plugs himself ___ again, Max plugs himself as again,0.102272727,0,0.189888383512668,0.25,0.194485450458862
+3,B,on, Max plugs himself ___ again, Max plugs himself on again,0.193181818,0,0.298239189060134,0.25,0.307161322124489
+3,C,among, Max plugs himself ___ again, Max plugs himself among again,0.386363636,0,0.189888383512668,0.25,0.194485450458862
+3,D,in, Max plugs himself ___ again, Max plugs himself in again,0.318181818,1,0.321984043914529,0.25,0.303867776957787
+4,A,with, She has a low opinion ___ herself, She has a low opinion with herself,0.170454545,0,0.311092621589259,0.25,
+4,B,by, She has a low opinion ___ herself, She has a low opinion by herself,0.693181818,0,0.192459162513976,0.25,
+4,C,of, She has a low opinion ___ herself, She has a low opinion of herself,0.068181818,1,0.303989053382788,0.25,
+4,D,inside, She has a low opinion ___ herself, She has a low opinion inside herself,0.068181818,0,0.192459162513976,0.25,
+5,A,with, She also has the advantage ___ an outstanding recording, She also has the advantage with an outstanding recording,0.238636364,0,0.311092621589259,0.25,
+5,B,from, She also has the advantage ___ an outstanding recording, She also has the advantage from an outstanding recording,0.25,0,0.192459162513976,0.25,
+5,C,during, She also has the advantage ___ an outstanding recording, She also has the advantage during an outstanding recording,0.284090909,0,0.192459162513976,0.25,
+5,D,of, She also has the advantage ___ an outstanding recording, She also has the advantage of an outstanding recording,0.227272727,1,0.303989053382788,0.25,
+6,A,about, Is there anyone else we should know ___?, Is there anyone else we should know about ?,0.545454545,1,0.192789254759958,0.25,
+6,B,with, Is there anyone else we should know ___?, Is there anyone else we should know with ?,0.181818182,0,0.311626185493555,0.25,
+6,C,near, Is there anyone else we should know ___?, Is there anyone else we should know near ?,0.193181818,0,0.192789254759958,0.25,
+6,D,on, Is there anyone else we should know ___?, Is there anyone else we should know on ?,0.079545455,0,0.30279530498653,0.25,
+7,A,of, Find ___ which insurance area you live in, Find of which insurance area you live in,0.136363636,0,0.274770489040797,0.25,
+7,B,with, Find ___ which insurance area you live in, Find with which insurance area you live in,0.102272727,0,0.281191282448673,0.25,
+7,C,out, Find ___ which insurance area you live in, Find out which insurance area you live in,0.704545455,1,0.270077694024582,0.25,
+7,D,round, Find ___ which insurance area you live in, Find round which insurance area you live in,0.056818182,0,0.173960534485949,0.25,
+8,A,of, Mrs.  Brooks was not usually curious ___ her guests, Mrs. Brooks was not usually curious of her guests,0.136363636,0,0.344906505145802,0.25,0.343597288545073
+8,B,about, Mrs.  Brooks was not usually curious ___ her guests, Mrs. Brooks was not usually curious about her guests,0.397727273,1,0.218364498284733,0.25,0.218800903818309
+8,C,until, Mrs.  Brooks was not usually curious ___ her guests, Mrs. Brooks was not usually curious until her guests,0.193181818,0,0.218364498284733,0.25,0.218800903818309
+8,D,by, Mrs.  Brooks was not usually curious ___ her guests, Mrs. Brooks was not usually curious by her guests,0.272727273,0,0.218364498284733,0.25,0.218800903818309
+9,A,in, I only moved ___ a couple of years ago, I only moved in a couple of years ago,0.352272727,1,0.288042045085831,0.221714878161852,0.272424770243832
+9,B,on, I only moved ___ a couple of years ago, I only moved on a couple of years ago,0.159090909,0,0.266800257855089,0.221714878161852,0.275377512697505
+9,C,along, I only moved ___ a couple of years ago, I only moved along a couple of years ago,0.227272727,0,0.169871269582385,0.221714878161852,0.174360883827389
+9,D,for, I only moved ___ a couple of years ago, I only moved for a couple of years ago,0.261363636,0,0.275286427476696,0.334855365514443,0.277836833231274
+10,A,against,You live ___ home with your parents?,You live against home with your parents?,0.147727273,0,0.218250167892708,0.214542682902538,0.216424026573918
+10,B,across,You live ___ home with your parents?,You live across home with your parents?,0.181818182,0,0.218250167892708,0.214542682902538,0.216424026573918
+10,C,inside,You live ___ home with your parents?,You live inside home with your parents?,0.227272727,0,0.218250167892708,0.214542682902538,0.216424026573918
+10,D,at,You live ___ home with your parents?,You live at home with your parents?,0.443181818,1,0.345249496321876,0.356371951292387,0.350727920278247
+11,A,on, ___short? it was Every Irish Town, on short? it was Every Irish Town,0.215909091,0,0.268674241407,0.25,0.276490830161554
+11,B,as, ___short? it was Every Irish Town, as short? it was Every Irish Town,0.25,0,0.171064431716855,0.25,0.175065803467016
+11,C,in, ___short? it was Every Irish Town, in short? it was Every Irish Town,0.465909091,1,0.290065229242732,0.25,0.273526150132775
+11,D,of, ___short? it was Every Irish Town, of short? it was Every Irish Town,0.068181818,0,0.270196097633413,0.25,0.274917216238655
+12,A,of, Look ___ him!, Look of him!,0.068181818,0,0.269675022141533,0.214542682902538,0.272948263992697
+12,B,in, Look ___ him!, Look in him!,0.022727273,0,0.289505835960116,0.214542682902538,0.271567160677693
+12,C,at, Look ___ him!, Look at him!,0.840909091,1,0.27008460940536,0.356371951292387,0.281672590054277
+12,D,by, Look ___ him!, Look by him!,0.068181818,0,0.170734532492991,0.214542682902538,0.173811985275333
+13,A,by, I'm shocked ___ my husband's behavior, I'm shocked by my husband's behavior,0.306818182,1,0.169614940464255,0.221714878161852,0.174634584702273
+13,B,of, I'm shocked ___ my husband's behavior, I'm shocked of my husband's behavior,0.329545455,0,0.267906627659582,0.221714878161852,0.274240045368929
+13,C,in, I'm shocked ___ my husband's behavior, I'm shocked in my husband's behavior,0.215909091,0,0.287607400877998,0.221714878161852,0.272852405710682
+13,D,for, I'm shocked ___ my husband's behavior, I'm shocked for my husband's behavior,0.147727273,0,0.274871030998164,0.334855365514443,0.278272964218117
+14,A,of, She died ___1890 aged sixty-six, She died of 1890 aged sixty-six,0.227272727,0,0.270196097633413,0.25,0.274917216238655
+14,B,by, She died ___1890 aged sixty-six, She died by 1890 aged sixty-six,0.079545455,0,0.171064431716855,0.25,0.175065803467016
+14,C,on, She died ___1890 aged sixty-six, She died on 1890 aged sixty-six,0.215909091,0,0.268674241407,0.25,0.276490830161554
+14,D,in, She died ___1890 aged sixty-six, She died in 1890 aged sixty-six,0.477272727,1,0.290065229242732,0.25,0.273526150132775
+15,A,in, One was dependent ___the other, One was dependent in the other,0.147727273,0,0.262396664522683,0.25,
+15,B,on, One was dependent ___the other, One was dependent on the other,0.25,1,0.243046107154622,0.25,
+15,C,with, One was dependent ___the other, One was dependent with the other,0.454545455,0,0.25013443083281,0.25,
+15,D,of, One was dependent ___the other, One was dependent of the other,0.147727273,0,0.244422797489884,0.25,
+16,A,from, Then I feel a tap___ the arm, Then I feel a tap from the arm,0.204545455,0,0.170994259317977,0.214542682902538,0.173540854809308
+16,B,in, Then I feel a tap___ the arm, Then I feel a tap in the arm,0.204545455,0,0.289946241486115,0.214542682902538,0.271143541266666
+16,C,at, Then I feel a tap___ the arm, Then I feel a tap at the arm,0.272727273,0,0.270495470741108,0.356371951292387,0.281233207117093
+16,D,on, Then I feel a tap___ the arm, Then I feel a tap on the arm,0.318181818,1,0.268564028454799,0.214542682902538,0.274082396806933
+17,A,of, He was well aware___ the importance of a new name, He was well aware of the importance of a new name,0.136363636,1,0.273908997603832,0.25,
+17,B,on, He was well aware___ the importance of a new name, He was well aware on the importance of a new name,0.125,0,0.272366228788423,0.25,
+17,C,about, He was well aware___ the importance of a new name, He was well aware about the importance of a new name,0.443181818,0,0.173415113791926,0.25,
+17,D,with, He was well aware___ the importance of a new name, He was well aware with the importance of a new name,0.295454545,0,0.280309659815819,0.25,
+18,A,of, Fill ___the survey and send it back to us, Fill of the survey and send it back to us,0.272727273,0,,0.221714878161852,0.248942618608611
+18,B,for, Fill ___the survey and send it back to us, Fill for the survey and send it back to us,0.193181818,0,,0.334855365514443,0.252603518597167
+18,C,in, Fill ___the survey and send it back to us, Fill in the survey and send it back to us,0.386363636,1,,0.221714878161852,0.247682982548732
+18,D,to, Fill ___the survey and send it back to us, Fill to the survey and send it back to us,0.147727273,0,,0.221714878161852,0.25077088024549
+19,A,of, He rather speaks ___ honor, He rather speaks of honor,0.295454545,1,,0.25,
+19,B,with, He rather speaks ___ honor, He rather speaks with honor,0.329545455,0,,0.25,
+19,C,across, He rather speaks ___ honor, He rather speaks across honor,0.136363636,0,,0.25,
+19,D,to, He rather speaks ___ honor, He rather speaks to honor,0.238636364,0,,0.25,
+20,A,off, Pupils do all sorts ___ peculiar things, Pupils do all sorts off peculiar things,0.159090909,0,0.218364498284733,0.25,0.218800903818309
+20,B,upon, Pupils do all sorts ___ peculiar things, Pupils do all sorts upon peculiar things,0.170454545,0,0.218364498284733,0.25,0.218800903818309
+20,C,of, Pupils do all sorts ___ peculiar things, Pupils do all sorts of peculiar things,0.545454545,1,0.344906505145802,0.25,0.343597288545073
+20,D,towards, Pupils do all sorts ___ peculiar things, Pupils do all sorts towards peculiar things,0.125,0,0.218364498284733,0.25,0.218800903818309
+21,A,for, Ah? feel sorry ___ her, Ah? feel sorry for her,0.632183908,1,0.250178742243537,0.292049484774685,0.251064801458429
+21,B,of, Ah? feel sorry ___ her, Ah? feel sorry of her,0.137931034,0,0.243839967068154,0.193372191706028,0.247426201592954
+21,C,at, Ah? feel sorry ___ her, Ah? feel sorry at her,0.149425287,0,0.244210315586641,0.321206131813259,0.255334758428226
+21,D,in, Ah? feel sorry ___ her, Ah? feel sorry in her,0.08045977,0,0.261770975101668,0.193372191706028,0.246174238520391
+22,A,under, In Russia there's little care ___ such babies, In Russia there's little care under such babies,0.079545455,0,0.216424026573918,0.221714878161852,0.217700888984831
+22,B,around, In Russia there's little care ___ such babies, In Russia there's little care around such babies,0.215909091,0,0.216424026573918,0.221714878161852,0.217700888984831
+22,C,towards, In Russia there's little care ___ such babies, In Russia there's little care towards such babies,0.306818182,0,0.216424026573918,0.221714878161852,0.217700888984831
+22,D,for, In Russia there's little care ___ such babies, In Russia there's little care for such babies,0.397727273,1,0.350727920278247,0.334855365514443,0.346897333045507
+23,A,for, ___ least? I didn't see it, for least? I didn't see it,0.068181818,0,0.250178742243537,0.292049484774685,0.251064801458429
+23,B,at, ___ least? I didn't see it, at least? I didn't see it,0.806818182,1,0.244210315586641,0.321206131813259,0.255334758428226
+23,C,of, ___ least? I didn't see it, of least? I didn't see it,0.090909091,0,0.243839967068154,0.193372191706028,0.247426201592954
+23,D,in, ___ least? I didn't see it, in least? I didn't see it,0.022727273,0,0.261770975101668,0.193372191706028,0.246174238520391
+24,A,at, This places too much burden ___others, This places too much burden at others,0.170454545,0,0.274210938846168,0.356371951292387,
+24,B,with, This places too much burden ___others, This places too much burden with others,0.579545455,0,0.280193094472571,0.214542682902538,
+24,C,towards, This places too much burden ___others, This places too much burden towards others,0.170454545,0,0.173343000000783,0.214542682902538,
+24,D,on, This places too much burden ___others, This places too much burden on others,0.079545455,1,0.272252966680479,0.214542682902538,
+25,A,of, Cook the peas and the pasta ___ the usual way, Cook the peas and the pasta of the usual way,0.136363636,0,0.267906627659582,0.221714878161852,0.274240045368929
+25,B,for, Cook the peas and the pasta ___ the usual way, Cook the peas and the pasta for the usual way,0.147727273,0,0.274871030998164,0.334855365514443,0.278272964218117
+25,C,in, Cook the peas and the pasta ___ the usual way, Cook the peas and the pasta in the usual way,0.522727273,1,0.287607400877998,0.221714878161852,0.272852405710682
+25,D,from, Cook the peas and the pasta ___ the usual way, Cook the peas and the pasta from the usual way,0.193181818,0,0.169614940464255,0.221714878161852,0.174634584702273
